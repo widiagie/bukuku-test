@@ -56,24 +56,25 @@ Batasan:
 Tugas Anda adalah mengembalikan ukuran subkumpulan terbesar dari strs yang memenuhi syarat berikut:
 a. Maksimal terdapat m angka 0 (nol).
 b. Maksimal terdapat n angka 1 (satu).
+
 Subkumpulan (subset) x dikatakan sebagai bagian dari kumpulan (set) y jika semua elemen di x juga terdapat di y.
 Batasan:
-* 1 <= strs.length <= 600
-* 1 <= strs[i].length <= 100
-* strs[i] hanya terdiri dari angka '0' dan '1'.
-* 1 <=m,n<= 100
+- 1 <= strs.length <= 600
+- 1 <= strs[i].length <= 100
+- strs[i] hanya terdiri dari angka '0' dan '1'.
+- 1 <=m,n<= 100
 
     soal2.php
 
 
-3. Anda diminta untuk membagi nums menjadi k subarray yang tidak kosong,
-sedemikian sehingga jumlah terbesar dari subarray manapun menjadi minimum.
-Subarray adalah bagian yang berurutan dari array tersebut.
+3. Anda diminta untuk membagi nums menjadi k subarray yang tidak kosong, sedemikian sehingga jumlah terbesar dari subarray manapun menjadi minimum. Subarray adalah bagian yang berurutan dari array tersebut.
+
 Tugas: Kembalikan jumlah terbesar minimum dari pembagian tersebut.
+
 Batasan:
-● 1 <= nums.length <= 1000
-● 0 <= nums[i] <= 10^6
-● 1 <= k <= min(50, nums.length)
+- 1 <= nums.length <= 1000
+- 0 <= nums[i] <= 10^6
+- 1 <= k <= min(50, nums.length)
 
     soal3.php
 
