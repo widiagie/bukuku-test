@@ -83,6 +83,7 @@ Soal 3 : Design System
 Answer : [Link](https://drive.google.com/file/d/1-Pav6Ef0B8iRdBCS9oAhfjErzPlhaNUO/view?usp=sharing)
 
 
+---------------------
 
 <H1>ATAU</H1>
 
@@ -91,6 +92,13 @@ Jalankan File PHP Menggunakan Server PHP Built-in
 
     php -S localhost:8000
 
-    Kemudian, buka browser dan pergi ke http://localhost:8000/soal1.php 
-    Anda akan melihat output dari skrip PHP tersebut.
+Kemudian, buka browser dan pergi ke 
+
+    http://localhost:8000/soal1.php 
+
+    http://localhost:8000/soal2.php
+
+    http://localhost:8000/soal3.php
+
+Anda akan melihat output dari skrip PHP tersebut.
 
