@@ -80,10 +80,10 @@ Batasan:
 
 Soal 3 : Design System
 ---------------------
-Answer : [Link](https://drive.google.com/file/d/1-Pav6Ef0B8iRdBCS9oAhfjErzPlhaNUO/view?usp=sharing)
+Answer : [Google PDF Link](https://drive.google.com/file/d/1-Pav6Ef0B8iRdBCS9oAhfjErzPlhaNUO/view?usp=sharing)
 
 
----------------------
+-----
 
 <H1>ATAU</H1>
 
